@@ -1,0 +1,2 @@
+//JScript file
+(function() {eval((new ActiveXObject("Scripting.FileSystemObject")).OpenTextFile(".\\jmcplus\\jmcplus.js").ReadAll());}());
